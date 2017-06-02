@@ -1,0 +1,16 @@
+Message-ID: <1b284343aa8a76173372e9da917cfb3c@localhost>
+Date: Fri, 07 Apr 2017 10:58:23 +0530
+Subject: Account Verification
+From:  SnappyShop <support@example.com>
+To: p123@edreamz.in
+Bcc: pawan.m@edreamz.in, gorakh.w@edreamz.in
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>Dear pawan,<p><p style=3D"margin:0;"><a href=3D"http://localhost/snappy_=
+yii2/admin/site/verifyemail?email=3Dp123@edreamz.in&token=3D63736933" style=
+=3D"color:#ffffff; background:#009506; text-decoration:none; font-size:16px=
+; padding:6px 13px; border-radius:4px; display:block; width:115px; display:=
+inline-block; vertical-align:top; text-align:center;"> Verify Account </a><=
+/p>

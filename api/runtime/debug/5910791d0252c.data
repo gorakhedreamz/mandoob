@@ -1,0 +1,351 @@
+a:11:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.30";s:10:"yiiVersion";s:8:"2.0.11.2";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.11.2";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.30";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:12:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:66:"/home/snappyshopsadmin/public_html/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:64:"/home/snappyshopsadmin/public_html/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:60:"/home/snappyshopsadmin/public_html/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:58:"/home/snappyshopsadmin/public_html/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:60:"/home/snappyshopsadmin/public_html/vendor/yiisoft/yii2-faker";}}s:24:"rmrevin/yii2-fontawesome";a:3:{s:4:"name";s:24:"rmrevin/yii2-fontawesome";s:7:"version";s:8:"2.17.1.0";s:5:"alias";a:1:{s:24:"@rmrevin/yii/fontawesome";s:66:"/home/snappyshopsadmin/public_html/vendor/rmrevin/yii2-fontawesome";}}s:18:"cebe/yii2-gravatar";a:3:{s:4:"name";s:18:"cebe/yii2-gravatar";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:14:"@cebe/gravatar";s:74:"/home/snappyshopsadmin/public_html/vendor/cebe/yii2-gravatar/cebe/gravatar";}}s:25:"dmstr/yii2-adminlte-asset";a:3:{s:4:"name";s:25:"dmstr/yii2-adminlte-asset";s:7:"version";s:7:"2.3.4.0";s:5:"alias";a:1:{s:6:"@dmstr";s:67:"/home/snappyshopsadmin/public_html/vendor/dmstr/yii2-adminlte-asset";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.8.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:67:"/home/snappyshopsadmin/public_html/vendor/kartik-v/yii2-krajee-base";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/file";s:72:"/home/snappyshopsadmin/public_html/vendor/kartik-v/yii2-widget-fileinput";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:62:"/home/snappyshopsadmin/public_html/vendor/yiisoft/yii2-imagine";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:73:"/home/snappyshopsadmin/public_html/vendor/kartik-v/yii2-widget-datepicker";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:10:{s:3:"pin";s:6:"SS_512";s:15:"accept-encoding";s:13:"gzip, deflate";s:14:"content-length";s:3:"237";s:15:"accept-language";s:5:"en-us";s:3:"key";s:6:"SS_512";s:6:"accept";s:3:"*/*";s:10:"connection";s:5:"close";s:10:"user-agent";s:46:"SnappyShops/1 CFNetwork/811.4.18 Darwin/16.5.0";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:4:"host";s:15:"snappyshops.org";}s:15:"responseHeaders";a:2:{s:12:"X-Powered-By";s:10:"PHP/5.6.30";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";}s:5:"route";s:15:"user/user/login";s:6:"action";s:58:"api\modules\user\controllers\UserController::actionLogin()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:237:"email=sanjay.d@edreamz.in&password=admin123&device_type=iOS&device_token=ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J&language=en";s:17:"Decoded to Params";a:5:{s:5:"email";s:19:"sanjay.d@edreamz.in";s:8:"password";s:8:"admin123";s:11:"device_type";s:3:"iOS";s:12:"device_token";s:152:"ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J";s:8:"language";s:2:"en";}}s:6:"SERVER";a:42:{s:4:"PATH";s:180:"/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin";s:3:"PWD";s:25:"/usr/local/cpanel/cgi-sys";s:5:"SHLVL";s:1:"0";s:21:"PHP_FCGI_MAX_REQUESTS";s:4:"5000";s:11:"SCRIPT_NAME";s:18:"/api/web/index.php";s:11:"REQUEST_URI";s:24:"/api/web/user/user/login";s:12:"QUERY_STRING";s:0:"";s:14:"REQUEST_METHOD";s:4:"POST";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:12:"REDIRECT_URL";s:24:"/api/web/user/user/login";s:11:"REMOTE_PORT";s:5:"56454";s:15:"SCRIPT_FILENAME";s:52:"/home/snappyshopsadmin/public_html/api/web/index.php";s:12:"SERVER_ADMIN";s:25:"webmaster@snappyshops.org";s:21:"CONTEXT_DOCUMENT_ROOT";s:34:"/home/snappyshopsadmin/public_html";s:14:"CONTEXT_PREFIX";s:0:"";s:14:"REQUEST_SCHEME";s:4:"http";s:13:"DOCUMENT_ROOT";s:34:"/home/snappyshopsadmin/public_html";s:11:"REMOTE_ADDR";s:12:"45.124.51.22";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_ADDR";s:13:"160.153.16.34";s:11:"SERVER_NAME";s:15:"snappyshops.org";s:15:"SERVER_SOFTWARE";s:13:"Apache/2.4.25";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"LD_LIBRARY_PATH";s:21:"/usr/local/apache/lib";s:8:"HTTP_PIN";s:6:"SS_512";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:14:"CONTENT_LENGTH";s:3:"237";s:20:"HTTP_ACCEPT_LANGUAGE";s:5:"en-us";s:8:"HTTP_KEY";s:6:"SS_512";s:11:"HTTP_ACCEPT";s:3:"*/*";s:15:"HTTP_CONNECTION";s:5:"close";s:15:"HTTP_USER_AGENT";s:46:"SnappyShops/1 CFNetwork/811.4.18 Darwin/16.5.0";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:9:"HTTP_HOST";s:15:"snappyshops.org";s:9:"UNIQUE_ID";s:24:"WRB5HC78zaUABRSSa2gAAAPX";s:15:"REDIRECT_STATUS";s:3:"200";s:18:"REDIRECT_UNIQUE_ID";s:24:"WRB5HC78zaUABRSSa2gAAAPX";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:18:"/api/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1494251804.985289096832275390625;s:12:"REQUEST_TIME";i:1494251804;}s:3:"GET";a:0:{}s:4:"POST";a:5:{s:5:"email";s:19:"sanjay.d@edreamz.in";s:8:"password";s:8:"admin123";s:11:"device_type";s:3:"iOS";s:12:"device_token";s:152:"ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J";s:8:"language";s:2:"en";}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:29:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1494251805.0038330554962158203125;i:4;a:0:{}i:5;i:2619216;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1494251805.003878116607666015625;i:4;a:0:{}i:5;i:2622392;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1494251805.0090548992156982421875;i:4;a:0:{}i:5;i:3227224;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1494251805.01653003692626953125;i:4;a:0:{}i:5;i:4748856;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1494251805.016891956329345703125;i:4;a:0:{}i:5;i:4802016;}i:19;a:6:{i:0;s:34:"Route requested: 'user/user/login'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1494251805.0189540386199951171875;i:4;a:0:{}i:5;i:5025352;}i:20;a:6:{i:0;s:20:"Loading module: user";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1494251805.0189750194549560546875;i:4;a:0:{}i:5;i:5030992;}i:21;a:6:{i:0;s:29:"Route to run: user/user/login";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1494251805.02402210235595703125;i:4;a:0:{}i:5;i:5706512;}i:22;a:6:{i:0;s:39:"Rate limit skipped: user not logged in.";i:1;i:4;i:2;s:37:"yii\filters\RateLimiter::beforeAction";i:3;d:1494251805.0268590450286865234375;i:4;a:0:{}i:5;i:6057520;}i:23;a:6:{i:0;s:74:"Running action: api\modules\user\controllers\UserController::actionLogin()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1494251805.0269110202789306640625;i:4;a:0:{}i:5;i:6054568;}i:24;a:6:{i:0;s:61:"Opening DB connection: mysql:host=localhost;dbname=snappyshop";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1494251805.04115390777587890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7922056;}i:27;a:6:{i:0;s:72:"SELECT * FROM `tbl_security` WHERE (`key`='SS_512') AND (`pin`='SS_512')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0419418811798095703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7927056;}i:30;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_security`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0425779819488525390625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7965352;}i:33;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_security' AND kcu.table_name = 'tbl_security'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.04380702972412109375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:8007080;}i:36;a:6:{i:0;s:75:"Failed to set unsafe attribute 'language' in 'common\models\UserLoginForm'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1494251805.0477039813995361328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:139;s:8:"function";s:5:"__set";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}i:5;i:8449896;}i:37;a:6:{i:0;s:76:"SELECT * FROM `user` WHERE (`email`='sanjay.d@edreamz.in') AND (`status`=10)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.048530101776123046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8566624;}i:40;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0494539737701416015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8638736;}i:43;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.05099391937255859375;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8679296;}i:46;a:6:{i:0;s:56:"SELECT * FROM `user` WHERE `email`='sanjay.d@edreamz.in'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4517500400543212890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8890104;}i:49;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.452518939971923828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8911248;}i:52;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4541790485382080078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8944648;}i:55;a:6:{i:0;s:262:"UPDATE `user` SET `device_type`='iOS', `device_token`='ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J', `last_login_date`='2017-05-08 19:26:46' WHERE `id`=7";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1494251806.45506000518798828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:147;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:8950912;}i:58;a:6:{i:0;s:48:"SELECT * FROM `tbl_country` WHERE `country_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4561851024627685546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9041712;}i:61;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tbl_country`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4566171169281005859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9060440;}i:64;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_country' AND kcu.table_name = 'tbl_country'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.457603931427001953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9080608;}i:67;a:6:{i:0;s:42:"SELECT * FROM `tbl_city` WHERE `city_id`=2";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.458550930023193359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9144584;}i:70;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `tbl_city`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4589641094207763671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9163184;}i:73;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_city' AND kcu.table_name = 'tbl_city'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.45993900299072265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9183312;}i:76;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 45.124.51.22";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1494251806.4617660045623779296875;i:4;a:0:{}i:5;i:9236784;}}}s:9:"profiling";a:3:{s:6:"memory";i:9416088;s:4:"time";d:1.4743311405181884765625;s:8:"messages";a:34:{i:25;a:6:{i:0;s:61:"Opening DB connection: mysql:host=localhost;dbname=snappyshop";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1494251805.041224956512451171875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7925704;}i:26;a:6:{i:0;s:61:"Opening DB connection: mysql:host=localhost;dbname=snappyshop";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1494251805.0418369770050048828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7931048;}i:28;a:6:{i:0;s:72:"SELECT * FROM `tbl_security` WHERE (`key`='SS_512') AND (`pin`='SS_512')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0419919490814208984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7932304;}i:29;a:6:{i:0;s:72:"SELECT * FROM `tbl_security` WHERE (`key`='SS_512') AND (`pin`='SS_512')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.04232692718505859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7936792;}i:31;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_security`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0426380634307861328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7969768;}i:32;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_security`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0433199405670166015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7978496;}i:34;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_security' AND kcu.table_name = 'tbl_security'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0438649654388427734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:8012496;}i:35;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_security' AND kcu.table_name = 'tbl_security'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0442829132080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:8016664;}i:38;a:6:{i:0;s:76:"SELECT * FROM `user` WHERE (`email`='sanjay.d@edreamz.in') AND (`status`=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0486049652099609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8572056;}i:39;a:6:{i:0;s:76:"SELECT * FROM `user` WHERE (`email`='sanjay.d@edreamz.in') AND (`status`=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0489709377288818359375;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8583784;}i:41;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.049521923065185546875;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8644360;}i:42;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0501649379730224609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8696160;}i:44;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.051055908203125;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8685928;}i:45;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0514490604400634765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8691328;}i:47;a:6:{i:0;s:56:"SELECT * FROM `user` WHERE `email`='sanjay.d@edreamz.in'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4518489837646484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8893232;}i:48;a:6:{i:0;s:56:"SELECT * FROM `user` WHERE `email`='sanjay.d@edreamz.in'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4523899555206298828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8902544;}i:50;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4525949954986572265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8914496;}i:51;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4533679485321044921875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8963880;}i:53;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4542329311370849609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8948848;}i:54;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4546909332275390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8951816;}i:56;a:6:{i:0;s:262:"UPDATE `user` SET `device_type`='iOS', `device_token`='ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J', `last_login_date`='2017-05-08 19:26:46' WHERE `id`=7";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1494251806.4551079273223876953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:147;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:8953776;}i:57;a:6:{i:0;s:262:"UPDATE `user` SET `device_type`='iOS', `device_token`='ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J', `last_login_date`='2017-05-08 19:26:46' WHERE `id`=7";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1494251806.455502033233642578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:147;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:8956336;}i:59;a:6:{i:0;s:48:"SELECT * FROM `tbl_country` WHERE `country_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4562280178070068359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9044952;}i:60;a:6:{i:0;s:48:"SELECT * FROM `tbl_country` WHERE `country_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.456532955169677734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9050560;}i:62;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tbl_country`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4566719532012939453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9063656;}i:63;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tbl_country`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.457168102264404296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9087008;}i:65;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_country' AND kcu.table_name = 'tbl_country'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.457665920257568359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9085320;}i:66;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_country' AND kcu.table_name = 'tbl_country'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.45806407928466796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9088288;}i:68;a:6:{i:0;s:42:"SELECT * FROM `tbl_city` WHERE `city_id`=2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4585940837860107421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9147816;}i:69;a:6:{i:0;s:42:"SELECT * FROM `tbl_city` WHERE `city_id`=2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.458879947662353515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9153240;}i:71;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `tbl_city`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.459021091461181640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9166432;}i:72;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `tbl_city`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4595220088958740234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9189184;}i:74;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_city' AND kcu.table_name = 'tbl_city'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.459992885589599609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9187512;}i:75;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_city' AND kcu.table_name = 'tbl_city'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4603970050811767578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9190480;}}}s:2:"db";a:1:{s:8:"messages";a:32:{i:28;a:6:{i:0;s:72:"SELECT * FROM `tbl_security` WHERE (`key`='SS_512') AND (`pin`='SS_512')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0419919490814208984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7932304;}i:29;a:6:{i:0;s:72:"SELECT * FROM `tbl_security` WHERE (`key`='SS_512') AND (`pin`='SS_512')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.04232692718505859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7936792;}i:31;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_security`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0426380634307861328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7969768;}i:32;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `tbl_security`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0433199405670166015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:7978496;}i:34;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_security' AND kcu.table_name = 'tbl_security'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0438649654388427734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:8012496;}i:35;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_security' AND kcu.table_name = 'tbl_security'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0442829132080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/snappyshopsadmin/public_html/common/models/Security.php";s:4:"line";i:47;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:132;s:8:"function";s:13:"checkSecurity";s:5:"class";s:22:"common\models\Security";s:4:"type";s:2:"::";}}i:5;i:8016664;}i:38;a:6:{i:0;s:76:"SELECT * FROM `user` WHERE (`email`='sanjay.d@edreamz.in') AND (`status`=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0486049652099609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8572056;}i:39;a:6:{i:0;s:76:"SELECT * FROM `user` WHERE (`email`='sanjay.d@edreamz.in') AND (`status`=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0489709377288818359375;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8583784;}i:41;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.049521923065185546875;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8644360;}i:42;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0501649379730224609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8696160;}i:44;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.051055908203125;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8685928;}i:45;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251805.0514490604400634765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:57:"/home/snappyshopsadmin/public_html/common/models/User.php";s:4:"line";i:83;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:84;s:8:"function";s:11:"findByEmail";s:5:"class";s:18:"common\models\User";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:66:"/home/snappyshopsadmin/public_html/common/models/UserLoginForm.php";s:4:"line";i:48;s:8:"function";s:7:"getUser";s:5:"class";s:27:"common\models\UserLoginForm";s:4:"type";s:2:"->";}}i:5;i:8691328;}i:47;a:6:{i:0;s:56:"SELECT * FROM `user` WHERE `email`='sanjay.d@edreamz.in'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4518489837646484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8893232;}i:48;a:6:{i:0;s:56:"SELECT * FROM `user` WHERE `email`='sanjay.d@edreamz.in'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4523899555206298828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8902544;}i:50;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4525949954986572265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8914496;}i:51;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4533679485321044921875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8963880;}i:53;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4542329311370849609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8948848;}i:54;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4546909332275390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:143;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:8951816;}i:56;a:6:{i:0;s:262:"UPDATE `user` SET `device_type`='iOS', `device_token`='ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J', `last_login_date`='2017-05-08 19:26:46' WHERE `id`=7";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1494251806.4551079273223876953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:147;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:8953776;}i:57;a:6:{i:0;s:262:"UPDATE `user` SET `device_type`='iOS', `device_token`='ewLVHqfmNlE:APA91bHq9GLWCuSulhIOQAti_j6vdQZRR9wk9bIGrEN6wzV3Y3YZGpwSziFFhyOj7jE2_aoxzEUWPp1BiZghxAbU3IXELov6vWZh8aQfglr0JR7YmKujTbnr7rY2tbFbNp3JXa1V_V5J', `last_login_date`='2017-05-08 19:26:46' WHERE `id`=7";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1494251806.455502033233642578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:147;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:8956336;}i:59;a:6:{i:0;s:48:"SELECT * FROM `tbl_country` WHERE `country_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4562280178070068359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9044952;}i:60;a:6:{i:0;s:48:"SELECT * FROM `tbl_country` WHERE `country_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.456532955169677734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9050560;}i:62;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tbl_country`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4566719532012939453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9063656;}i:63;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tbl_country`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.457168102264404296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9087008;}i:65;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_country' AND kcu.table_name = 'tbl_country'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.457665920257568359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9085320;}i:66;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_country' AND kcu.table_name = 'tbl_country'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.45806407928466796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9088288;}i:68;a:6:{i:0;s:42:"SELECT * FROM `tbl_city` WHERE `city_id`=2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4585940837860107421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9147816;}i:69;a:6:{i:0;s:42:"SELECT * FROM `tbl_city` WHERE `city_id`=2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.458879947662353515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9153240;}i:71;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `tbl_city`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.459021091461181640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9166432;}i:72;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `tbl_city`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4595220088958740234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9189184;}i:74;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_city' AND kcu.table_name = 'tbl_city'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.459992885589599609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9187512;}i:75;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tbl_city' AND kcu.table_name = 'tbl_city'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1494251806.4603970050811767578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:82:"/home/snappyshopsadmin/public_html/api/modules/user/controllers/UserController.php";s:4:"line";i:152;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:9190480;}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:8:"timeline";a:3:{s:5:"start";d:1494251804.9905889034271240234375;s:3:"end";d:1494251806.4658830165863037109375;s:6:"memory";i:9511952;}s:4:"user";N;s:6:"router";a:1:{s:8:"messages";a:14:{i:5;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1494251805.0185699462890625;i:4;a:0:{}i:5;i:5002080;}i:6;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1494251805.018599033355712890625;i:4;a:0:{}i:5;i:5003960;}i:7;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1494251805.018621921539306640625;i:4;a:0:{}i:5;i:5005912;}i:8;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1494251805.0186440944671630859375;i:4;a:0:{}i:5;i:5007832;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1494251805.0186650753021240234375;i:4;a:0:{}i:5;i:5009848;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:19:"POST user/user/demo";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1494251805.018722057342529296875;i:4;a:0:{}i:5;i:5016384;}i:11;a:6:{i:0;a:3:{s:4:"rule";s:27:"POST user/user/getcountries";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1494251805.0187590122222900390625;i:4;a:0:{}i:5;i:5018296;}i:12;a:6:{i:0;a:3:{s:4:"rule";s:29:"GET user/user/getsecuritycode";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1494251805.0187819004058837890625;i:4;a:0:{}i:5;i:5020128;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:28:"POST user/user/getcategories";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1494251805.0188109874725341796875;i:4;a:0:{}i:5;i:5022000;}i:14;a:6:{i:0;a:3:{s:4:"rule";s:24:"POST user/user/getcities";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1494251805.0188388824462890625;i:4;a:0:{}i:5;i:5023872;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:21:"POST user/user/signup";s:5:"match";b:0;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1494251805.018867015838623046875;i:4;a:0:{}i:5;i:5025736;}i:16;a:6:{i:0;s:45:"Request parsed with URL rule: user/user/login";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1494251805.0188961029052734375;i:4;a:0:{}i:5;i:5028928;}i:17;a:6:{i:0;a:3:{s:4:"rule";s:20:"POST user/user/login";s:5:"match";b:1;s:6:"parent";s:16:"yii\rest\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1494251805.01891803741455078125;i:4;a:0:{}i:5;i:5029384;}i:18;a:6:{i:0;a:3:{s:4:"rule";s:16:"yii\rest\UrlRule";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1494251805.0189359188079833984375;i:4;a:0:{}i:5;i:5026728;}}}s:7:"summary";a:9:{s:3:"tag";s:13:"5910791d0252c";s:3:"url";s:46:"http://snappyshops.org/api/web/user/user/login";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:12:"45.124.51.22";s:4:"time";d:1494251804.985289096832275390625;s:10:"statusCode";i:200;s:8:"sqlCount";i:16;s:9:"mailCount";i:0;}}

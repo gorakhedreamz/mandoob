@@ -1,0 +1,55 @@
+Message-ID: <b5d6f1468df6bfa20ca3bdaddb909ada@localhost>
+Date: Mon, 27 Mar 2017 11:43:02 +0530
+Subject: Password reset for SnappyShop Shopowner
+From:  SnappyShop <support@example.com>
+To: pawan.m@edreamz.in
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1490595182_e7d909c10a138fc21bd5808a84784c6a_=_"
+
+
+--_=_swift_v4_1490595182_e7d909c10a138fc21bd5808a84784c6a_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello pawan shop,
+
+Follow the link below to reset your password:
+=
+
+http://localhost/snappy_yii2/admin/site/reset-password-shopowner?token=
+=3DXlSk2R-Dm5l0r-W9HCwNqh4JKr5Kva2L_1490595182
+
+--_=_swift_v4_1490595182_e7d909c10a138fc21bd5808a84784c6a_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"password-reset">
+    <p>Hello pawan shop,</p>
+
+    =
+<p>Follow the link below to reset your password:</p>
+
+    <p><a href=3D=
+"http://localhost/snappy_yii2/admin/site/reset-password-shopowner?token=3DX=
+lSk2R-Dm5l0r-W9HCwNqh4JKr5Kva2L_1490595182">http://localhost/snappy_yii2/ad=
+min/site/reset-password-shopowner?token=3DXlSk2R-Dm5l0r-W9HCwNqh4JKr5Kva2L_=
+1490595182</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_v4_1490595182_e7d909c10a138fc21bd5808a84784c6a_=_--
